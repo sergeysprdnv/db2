@@ -44,19 +44,10 @@ address			 | address_id
 city			 | city_id  
 country 		 | country_id  
 inventory		 | inventory_id  
-nicer_but_slower_film_list  
-staff_list  
-customer_list  
-film_category	 | film_id, category_id  
+film_category	 	 | film_id, category_id  
 actor			 | actor_id  
 category_id		 | category_id  
-film_category	 | film_id  
 language		 | language_id  
-film_list  
-sales_by_film_category  
-film_text  
-sales_by_store  
-actor_info  
-
+film_actor		 | actor_id, film_id
 
 
